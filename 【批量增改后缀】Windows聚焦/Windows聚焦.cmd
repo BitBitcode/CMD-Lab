@@ -1,0 +1,1 @@
+for /R %i in (*.*) do ren %i *.*.jpg
